@@ -1,5 +1,5 @@
-### Application 2 : Real-Time Data Processing System for
-###                 Weather Monitoring with Rollups and Aggregates
+### Application 2 : Real-Time Data Processing System for Weather Monitoring with Rollups and Aggregates
+ 
 
 Overview Welcome to the Weather App built with React.js! This application allows users to check real-time weather information for any city of their choice. It fetches data from the OpenWeather API and displays details like temperature, humidity, wind speed, and more. Users can easily switch between Celsius and Fahrenheit for temperature readings.
 
